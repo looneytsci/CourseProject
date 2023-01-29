@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\Универ\Программирование\CourseGolovinDmitriy\CourseGolovinDmitriy\arm64\Debug\CourseGolovinDmitriy.vcxproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Универ\Программирование\CourseGolovinDmitriy\CourseGolovinDmitriy\arm64\Debug\CourseGolovinDmitriy.vcxproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Универ\Программирование\CourseGolovinDmitriy\CourseGolovinDmitriy\arm64\Debug\CourseGolovinDmitriy.MainInterpol.resources
+\\Mac\Home\Desktop\Универ\Программирование\CourseGolovinDmitriy\CourseGolovinDmitriy\arm64\Debug\CourseGolovinDmitriy.vcxproj.GenerateResource.cache

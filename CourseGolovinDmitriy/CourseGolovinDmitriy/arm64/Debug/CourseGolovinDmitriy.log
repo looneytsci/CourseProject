@@ -1,0 +1,8 @@
+﻿  MainInterpol.cpp
+\\Mac\Home\Desktop\Универ\Программирование\CourseGolovinDmitriy\CourseGolovinDmitriy\MainInterpol.cpp(8,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+\\Mac\Home\Desktop\Универ\Программирование\CourseGolovinDmitriy\CourseGolovinDmitriy\MainInterpol.cpp(18,46): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+\\Mac\Home\Desktop\Универ\Программирование\CourseGolovinDmitriy\CourseGolovinDmitriy\MainInterpol.cpp(32,46): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MainInterpol.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CourseGolovinDmitriy.vcxproj -> \\Mac\Home\Desktop\Универ\Программирование\CourseGolovinDmitriy\arm64\Debug\CourseGolovinDmitriy.exe
